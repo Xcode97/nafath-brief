@@ -1,4 +1,4 @@
-skeleton: NAFATH-V1
+87ca11c skeleton: NAFATH-V1
 overview: connect the six subtopics
 research: software, ai, mobile
 research: networking, cybersecurity, data
